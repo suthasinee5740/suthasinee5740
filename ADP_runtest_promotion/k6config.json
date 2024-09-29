@@ -1,0 +1,10 @@
+{
+    "ext": {
+      "influxdb": {
+        "enabled": true,
+        "address": "http://influxdb:8086",
+        "database": "mydb",
+        "pushInterval": "10s"
+      }
+    }
+  }
